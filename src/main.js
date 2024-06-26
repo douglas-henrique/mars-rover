@@ -1,8 +1,5 @@
 const Rover = require('./Rover');
 
-
-
-
 //dispatch rovers navigation
 function navigateRovers(plateauWidth, plateauHeight, roverData) {
     let rovers = [];
