@@ -1,0 +1,14 @@
+{
+  "name": "voyager-mars-rover",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "author": { "name": "Douglas Henrique", "email": "douglas.hsp2019@gmail.com"},
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "simulate": "node src/main.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
